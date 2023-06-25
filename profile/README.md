@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="180" src="./assets/cover.png" alt="logo">
+    <img width="180" src="https://media.discordapp.net/attachments/775752930749054978/1122553985446989995/seoweb-lm.png" alt="logo">
 </p>
 
 <p align="center">
