@@ -14,7 +14,7 @@
 
 สามารถติดต่อสอบถามรายละเอียดเพิ่มเติมได้ที่
 
-* bdsm.doxbev@gmail.com
+* bdsm@doxbev.com
 * [Join our Discord](https://discord.gg/DmdbTra7SZ)
 
 ## Members
