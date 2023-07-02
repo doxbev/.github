@@ -1,5 +1,7 @@
 <p align="center">
-    <img width="180" src="https://media.discordapp.net/attachments/775752930749054978/1122553985446989995/seoweb-lm.png" alt="logo">
+    <a href="https://doxbev.com/">
+        <img width="500" src="https://media.discordapp.net/attachments/775752930749054978/1122553985446989995/seoweb-lm.png" alt="logo">
+    </a>
 </p>
 
 <p align="center">
