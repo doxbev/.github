@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://doxbev.com/">
+    <a href="https://doxbev.com/" target="_blank">
         <img width="500" src="https://media.discordapp.net/attachments/775752930749054978/1122553985446989995/seoweb-lm.png" alt="logo">
     </a>
 </p>
@@ -28,7 +28,7 @@
 
   <td align="center"><img src="https://media.discordapp.net/attachments/775752930749054978/1124817342082322502/S__19996679.jpg" width="100px;" alt="emu"/><br /><sub><b>Gaowz Pathhanyoo</b></sub><br /><a href="https://github.com/Ptyngs" title="Code">💻</a></td>
 
-  <td align="center"><a href="https://emuzabies.me/"><img src="https://github.com/emu479p01.png" width="100px;" alt="emu"/><br /><sub><b>Emuzabies</b></sub></a><br /><a href="https://github.com/emu479p01" title="Code">💻</a></td>
+  <td align="center"><a href="https://emuzabies.me/" target="_blank"><img src="https://github.com/emu479p01.png" width="100px;" alt="emu"/><br /><sub><b>Emuzabies</b></sub></a><br /><a href="https://github.com/emu479p01" title="Code">💻</a></td>
 
   <td align="center"><img src="https://media.discordapp.net/attachments/775752930749054978/1124820883773591602/E8871DA6-8929-43A3-8EAA-EE7D7D8378BD.jpg" width="100px;" alt="emu"/><br /><sub><b>Guy Kittiz</b></sub><br /><a href="https://github.com/konDTnhai" title="Code">💻</a></td>
 </table>
@@ -46,7 +46,7 @@
 #### Dev
 
 <table>
-  <td align="center"><a href="https://emuzabies.me/"><img src="https://github.com/emu479p01.png" width="100px;" alt="emu"/><br /><sub><b>Emuzabies ⭐</b></sub></a></td>
+  <td align="center"><a href="https://emuzabies.me/" target="_blank"><img src="https://github.com/emu479p01.png" width="100px;" alt="emu"/><br /><sub><b>Emuzabies ⭐</b></sub></a></td>
 
   <td align="center"><img src="https://media.discordapp.net/attachments/775752930749054978/1124820883773591602/E8871DA6-8929-43A3-8EAA-EE7D7D8378BD.jpg" width="100px;" alt="emu"/><br /><sub><b>Guy Kittiz</b></sub></td>
 </table>
