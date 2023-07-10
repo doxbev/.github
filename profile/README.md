@@ -32,23 +32,3 @@
 
   <td align="center"><img src="https://media.discordapp.net/attachments/775752930749054978/1124820883773591602/E8871DA6-8929-43A3-8EAA-EE7D7D8378BD.jpg" width="100px;" alt="emu"/><br /><sub><b>Guy Kittiz</b></sub><br /><a href="https://github.com/konDTnhai" title="Code">💻</a></td>
 </table>
-
-#### BDSM (Business Development Sales and Marketing)
-
-<table>
-  <td align="center"><img src="https://media.discordapp.net/attachments/775752930749054978/1122547046562414672/115823296_157760232503453_8698050158254191688_n.jpg" width="100px;" alt="Por Tanagon"/><br /><sub><b>Por Tanagon ⭐</b></sub></td>
-
-  <td align="center"><img src="https://media.discordapp.net/attachments/775752930749054978/1124817342082322502/S__19996679.jpg" width="100px;" alt="emu"/><br /><sub><b>Gaowz Pathhanyoo</b></sub></td>
-</table>
-
-> ⭐ = IGL
-
-#### Dev
-
-<table>
-  <td align="center"><a href="https://emuzabies.me/" target="_blank"><img src="https://github.com/emu479p01.png" width="100px;" alt="emu"/><br /><sub><b>Emuzabies ⭐</b></sub></a></td>
-
-  <td align="center"><img src="https://media.discordapp.net/attachments/775752930749054978/1124820883773591602/E8871DA6-8929-43A3-8EAA-EE7D7D8378BD.jpg" width="100px;" alt="emu"/><br /><sub><b>Guy Kittiz</b></sub></td>
-</table>
-
-> ⭐ = IGL
