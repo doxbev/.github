@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://doxbev.com/" target="_blank">
-        <img width="500" src="https://doxbev.com/wp-content/uploads/2023/06/seoweb-lm-1024x512.png" alt="logo">
+        <img width="500" src="http://doxbev.com/wp-content/uploads/2024/04/POWER-By.png" alt="logo">
     </a>
 </p>
 
